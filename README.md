@@ -1,5 +1,6 @@
 # ICO Presale DApp (ICO) 
 ## Project Overview
+ICO (Initial Coin Offering) project is a decentralized application (DApp) built using Next.js, Solidity. It facilitates the presale of tokens, allowing users to purchase tokens using cryptocurrencies. The smart contract manages token distribution securely on blockchain networks like Polygon. The project explores DeFi protocols, ensuring transparent and decentralized fundraising.
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2024/05/Build-and-deploy-token-presale-ico-dapp.png)
 
